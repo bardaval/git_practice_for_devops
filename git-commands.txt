@@ -4,7 +4,7 @@ git status
 git commit -m "message"
 git restore
 
-git remoe -v  
+git remote -v  
 git remote add origin https://github.com/bardaval/git_practice_for_devops.git
 git push origin master
 git remote set-url origin https://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@github.com/github.com/bardaval/git_practice_for_devops.gitgit remote set-url origin https://github.com/bardaval/git_practice_for_devops.git 
