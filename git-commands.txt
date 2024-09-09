@@ -10,3 +10,5 @@ git push origin master
 git remote set-url origin https://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@github.com/github.com/bardaval/git_practice_for_devops.gitgit remote set-url origin https://github.com/bardaval/git_practice_for_devops.git 
 git remote set-url origin https://github.com/bardaval/git_practice_for_devops.git
 git pull origin master
+
+git switch branch-name
